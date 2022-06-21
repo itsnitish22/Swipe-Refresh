@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.swipe_refresh.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.swipe_refresh.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.swipe_refresh.app-mergeDebugResources-30:\\layout\\card_item.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.swipe_refresh.app-main-33:\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.swipe_refresh.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.swipe_refresh.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.swipe_refresh.app-mergeDebugResources-30:\\layout\\fragment_numbers.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.swipe_refresh.app-main-33:\\layout\\fragment_numbers.xml"
+    },
+    {
+        "merged": "com.example.swipe_refresh.app-mergeDebugResources-30:/layout/fragment_numbers.xml",
+        "source": "com.example.swipe_refresh.app-main-33:/layout/fragment_numbers.xml"
+    }
+]

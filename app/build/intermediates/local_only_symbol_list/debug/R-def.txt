@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id navHostFragment
+id nav_graph
+id numbers
+id recyclerview
+id swipeRefreshLayout
+layout activity_main
+layout card_item
+layout fragment_numbers
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+string hello_blank_fragment
+style Theme.SwipeRefresh
+xml backup_rules
+xml data_extraction_rules
